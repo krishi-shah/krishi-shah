@@ -140,21 +140,7 @@ I have applied machine learning across government systems and startup environmen
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishi-shah&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=krishi-shah&theme=dark&hide_border=false)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishi-shah&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=krishi-shah&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 </div>
 
