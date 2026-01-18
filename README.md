@@ -134,17 +134,6 @@ I have applied machine learning across government systems and startup environmen
 ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishi-shah&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-</div>
-
----
 
 ## ✍️ Random Dev Quote
 
