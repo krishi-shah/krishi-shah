@@ -1,0 +1,13 @@
+{
+  "title": "Skill Radar",
+  "_comment": "Self-rated, 0-100. Edit these and the Charts workflow redraws the radar.",
+  "axes": [
+    { "label": "Applied ML",            "value": 88 },
+    { "label": "Computer Vision",       "value": 85 },
+    { "label": "LLMs / RAG",            "value": 80 },
+    { "label": "Model Evaluation",      "value": 90 },
+    { "label": "Data Engineering / SQL","value": 85 },
+    { "label": "ML Systems / MLOps",    "value": 75 },
+    { "label": "Explainability",        "value": 80 }
+  ]
+}

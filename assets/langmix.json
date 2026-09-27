@@ -1,0 +1,12 @@
+{
+  "title": "Language & Framework Stack",
+  "_comment": "Hand-authored stack radar. Values 0-100. Edit these and the Charts workflow redraws it.",
+  "axes": [
+    { "label": "Python",       "value": 92 },
+    { "label": "SQL",          "value": 88 },
+    { "label": "PyTorch",      "value": 85 },
+    { "label": "scikit-learn", "value": 88 },
+    { "label": "R",            "value": 65 },
+    { "label": "Java",         "value": 65 }
+  ]
+}

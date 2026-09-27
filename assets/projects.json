@@ -1,0 +1,21 @@
+{
+  "_comment": "Featured repos, in README order. Stars/forks/language come live from the API on every run; the description here overrides the repo's GitHub description.",
+  "projects": [
+    {
+      "repo": "ai-image-detection",
+      "description": "AI-generated image detection with EfficientNet-B3: 0.997 AUC-ROC, calibrated, and stress-tested across six generators with a resolution-matched control."
+    },
+    {
+      "repo": "FinRAG-AI",
+      "description": "Financial question answering grounded in SEC filings and earnings data, built with LangChain, FAISS, BM25 and FinBERT."
+    },
+    {
+      "repo": "Medrisk-ML",
+      "description": "30-day hospital readmission risk for diabetic patients, with a SHAP explanation on every prediction. XGBoost, LightGBM, MLflow, FastAPI."
+    },
+    {
+      "repo": "Toronto-AI-ML-internship-radar",
+      "description": "Live feed of Winter 2027 AI/ML internships and co-ops in Canada, refreshed by GitHub Actions every ~10 minutes."
+    }
+  ]
+}
